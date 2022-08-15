@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Chatty"),
       ),
-      body: Image.asset('profile_pic.png'),
+      body: Image.asset('assets/images/profile_pic.png'),
     );
   }
 }
